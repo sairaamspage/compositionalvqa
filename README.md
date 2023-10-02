@@ -5,4 +5,5 @@
 4. https://drive.google.com/drive/folders/1nxBh56GYvJJECFRK9PxeLY-wkID99S7J?usp=sharing
 5. https://drive.google.com/drive/folders/1bQx8j3ZLKHZsMKx1-J0CPt3eirBUQIMA?usp=sharing
 
-# Links for dataset questions and answers (only) are coming up: 
+# Links for dataset questions and answers and code to understand the generation process can be found in:
+https://www.kaggle.com/datasets/sairaamvenkataraman/uncommon-objects-in-unseen-configurations
